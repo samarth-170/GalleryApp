@@ -42,9 +42,10 @@ Image-Gallery-App/
 ---
 
 ## Screenshot
-
+Landing Page
 <img width="1919" height="896" alt="Screenshot 2026-07-30 122059" src="https://github.com/user-attachments/assets/9664a9ca-f246-4b77-8627-2ac614e1dbb9" />
 
+Next Pages
 <img width="1919" height="901" alt="Screenshot 2026-07-30 122117" src="https://github.com/user-attachments/assets/61137e67-95f3-4297-a8b4-5a417c7e36bb" />
 
 ---
