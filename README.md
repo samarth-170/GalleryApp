@@ -121,7 +121,7 @@ This project was created for educational purposes to practice React development 
 
 ## Author
 **Samarth Bhardwaj**
-GitHub: https://github.com/samarth-170
+GitHub: https://github.com/samarthbhrdwaj
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+If you found this project useful, consider giving it a star on GitHub!
